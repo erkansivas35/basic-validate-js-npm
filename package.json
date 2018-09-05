@@ -1,0 +1,20 @@
+{
+  "name": "basic-validate-js",
+  "version": "1.0.5",
+  "description": "You can validate JavaScript forms with Basic Validate JS.",
+  "keywords": ["basic validate", " form validate"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/erkansivas35/basic-validate-js.git"
+  },
+  "author": "Erkan Sivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/erkansivas35/basic-validate-js/issues"
+  },
+  "homepage": "https://gitlab.com/erkansivas35/basic-validate-js#README"
+}
