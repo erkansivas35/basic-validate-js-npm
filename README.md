@@ -38,7 +38,7 @@ In Node.js:
 **Iban Validate**
 
 ```javascript
-    let ibanExample = basicValidate.ibanControl('TR00 0006 0000 9999 9999 99'); // return true or false  
+    let ibanExample = basicValidate.ibanControl('TR00 0006 2000 0001 9999 9999 99'); // return true or false  
 ```
 
 **Regex Validate**
