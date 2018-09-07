@@ -25,7 +25,7 @@ In Node.js:
 **Email Validate**
 
 ```javascript
-    let emailExample = basicValidate.emailControl('stringEmail'); // return true or false 
+    let emailExample = basicValidate.emailControl('example@example.com'); // return true or false 
 ```
 
 **Date Validate**

@@ -1,11 +1,6 @@
 module.exports = {
   textControl: function (textString) {
-    if (textString == '') {
-      return false;
-    }
-    else {
-      return true;
-    }
+    return textString != ''
   },
   emailControl: function (stringEmail) {
     let selectItem = stringEmail
