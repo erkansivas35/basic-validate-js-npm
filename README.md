@@ -45,5 +45,5 @@ In Node.js:
 
 ```javascript
     let numberPattern = /^(([0-9]*)|(([0-9]*)\.([0-9]*)))$/;
-    let patternExample = basicValidate.patternControl('1234567890', numberPattern); // return true or false.
+    let patternExample = basicValidate.patternControl('1234567890', numberPattern); // return true or false
 ```
